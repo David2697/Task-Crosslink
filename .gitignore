@@ -1,0 +1,4 @@
+cache_uniprot/
+Crosslink_with_accessions.*
+.ipynb_checkpoints/
+*.csv
